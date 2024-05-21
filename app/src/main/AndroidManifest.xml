@@ -13,10 +13,10 @@
         android:theme="@style/Theme.Lap4_kt"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name=".MainActivityBai2Lab4"
             android:exported="false" />
         <activity
-            android:name=".MainActivityBai2Lab4"
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivityBai3Lab4"

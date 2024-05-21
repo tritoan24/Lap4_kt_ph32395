@@ -73,7 +73,7 @@ fun LoginCompose() {
         verticalArrangement = Arrangement.Center) {
 //    Anh logo
         Image(
-            painter = painterResource(id = R.drawable.anh_nhom_que),
+            painter = painterResource(id = R.drawable.avatar),
             contentDescription = "Anh que",
             contentScale = ContentScale.Crop,
             modifier = Modifier
